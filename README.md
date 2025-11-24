@@ -14,7 +14,8 @@ It deploys:
 
 ## Architecture
 
-![Infrastructure Diagram](diagrams/arc.png)
+![Infrastructure Diagram](diagrams/arc.jpeg
+)
 
 ### Create the stack
 
